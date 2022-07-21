@@ -1,0 +1,500 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "César Luis",
+      "surnames": "Tagarro Muñoz",
+      "title": "SysAdmin",
+      "description": "Siempre me ha gustado ser de esas personas dinámicas y proactivas, que son capaces de reinventarse y adaptarse a las circunstancias.\n\nLa mayor parte de mi trayectoria profesional se ha desarrollado en el mundo del diseño de redes FTTH, y disfrutaba cuando surgía una dificultad o tenía que buscar una solución ingeniosa para optimizar el diseño de una forma rápida sin que llegase a repercutir en el trabajo de otros compañeros.\n\nPero, si hay algo que me define, es el interés por conocer el funcionamiento de cada aparato que cae en mis manos, tanto a nivel interno (hardware) como a nivel de uso (software) para optimizar su funcionamiento y conseguir sacar el máximo rendimiento. De manera que, en este momento, estoy centrado en desarrollar mi carrera profesional como administrador de sistemas.\n\nAdemás, uno de mis principales intereses es estar al día de las novedades que hay en el mundo de la informática y telecomunicaciones, sobre todo en la rama de seguridad de la información y redes a nivel empresarial. Esta inquietud por aprender ha hecho que gran parte de mis conocimientos se hayan adquirido de forma autodidacta.\n\nPero antes de entrar en este mundo, fui comercial, lo que me enseñó a trabajar contrarreloj y, sobre todo, a tratar con todo tipo de personas y situaciones.\n\nEn la vida profesional creo que lo más importante es demostrar lo que eres capaz de hacer y aportar a tu empresa. La honestidad, el esfuerzo, las ganas de aprender y mejorar son mi mejor carta de presentación.",
+      "avatar": {
+        "alt": "IMG_20180607_131849_2.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/4e86c09a-97dd-41fa-88af-00bcc1f15eb8_img_20180607_131849_.jpg"
+      },
+      "location": {
+        "notes": "Murcia, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/cesartagarro/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Gor Factory",
+          "image": {
+            "alt": "R.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/03/4f33194d-2892-44b3-99c9-dd087da9f21b_r.jpg"
+          },
+          "URL": "https://gorfactory.com/"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas y redes",
+            "startDate": "2022-04-01",
+            "finishDate": "2022-07-01",
+            "competences": [
+              {
+                "name": "Active Directory",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Office 365",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Aire Networks",
+          "image": {
+            "alt": "AireNetworks.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/e1e6196f-73e0-4a6a-8ccf-a5d3d2b128bf_airenetworks.png"
+          },
+          "URL": "https://www.airenetworks.es/"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas",
+            "startDate": "2021-07-01",
+            "finishDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Como administrador de sistemas en Aire Networks, llevé a cargo las siguientes funciones: \n\n• Administración de infraestructura de servidores, redes y CPD. \n• Gestión y administración de sistemas (Linux y Windows Server)\n• Gestión y administración de sistemas de virtualización (Nutanix, VMWare, ESXi, KVM)\n• Gestión y administración de sistemas de monitorización y log (Zabbix)\n• Gestión de directorios de usuario (LDAP, Active Directory)\n\nY, además de todo lo mencionado anteriormente, también he realizado tareas de soporte técnico, tanto a nivel interno como externo."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Active Directory",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "LDAP",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              },
+              {
+                "name": "Zabbix",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Avanza Solutions",
+          "image": {
+            "alt": "avanza_solutions_logo-png-300x185.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/4fbeaf8d-0131-4010-a64d-f979d68c43de_avanza_solutions_log.png"
+          },
+          "URL": "https://www.avanzasolutions.es/"
+        },
+        "roles": [
+          {
+            "name": "Ingeniería de redes FTTH",
+            "startDate": "2019-07-01",
+            "finishDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "Las funciones que realizaba eran de diseñador de redes FTTH, principalmente de Red de Alimentación, cálculo de fibras y materiales, parcheo de cabeceras, seguimiento de diseño de Red de Distribución, zonificación, etc. Teniendo los conocimientos de ayudar en cualquier fase del proceso en caso de necesidad.\n\nA su vez, también realizaba labores de gestión del control de calidad, gestión de huecos, revisión y verificación de documentación, apoyo a otros departamentos, etc."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Autocad",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo Vihotec",
+          "image": {
+            "alt": "grupoo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/47b80d0b-c064-45b0-b28f-06ed8733ce25_grupoo.png"
+          },
+          "URL": "https://www.vihotecingenieria.com/"
+        },
+        "roles": [
+          {
+            "name": " Técnico de diseño IPEX",
+            "startDate": "2018-12-01",
+            "finishDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": "Mis funciones principales han estado enfocadas al diseño de redes FTTH (listas de espera, greenfield, despliegues) y circuitos (MacroLAN, orlas y estaciones base) para Telefónica de España.\n\nAdemás, he colaborado como gestor de proyectos realizando replanteos, gestionando la documentación y las certificaciones de obra civil."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Autocad",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ingeniería de Sistemas Aplicados",
+          "image": {
+            "alt": "logo_idSA_png_web (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/5d2a11af-d5d4-4241-90c6-97df79a5b63c_logo_idsa_png_web-(1.png"
+          },
+          "URL": "https://www.idsa.es/"
+        },
+        "roles": [
+          {
+            "name": "Técnico de diseño de redes FTTH",
+            "startDate": "2017-07-01",
+            "finishDate": "2018-06-01",
+            "challenges": [
+              {
+                "description": "He ejercido como diseñador de redes FTTH para el operador MásMóvil y, en algunas ocasiones, he tenido que hacer de apoyo para mis compañeros diseñando para operadores locales.\n\nAdemás, dentro de la empresa, he realizado otras tareas como certificación para Telefónica de España, replanteo en campo y he llevado el mantenimiento de los equipos informáticos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Illustrator",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "Autocad",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Digimaster",
+          "image": {
+            "alt": "Digimaster.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/15/286af6b5-41dd-4a35-948f-88f52ab70f7e_digimaster.png"
+          },
+          "URL": "https://www.digimaster.es/"
+        },
+        "roles": [
+          {
+            "name": "Técnico de certificación FTTH (Formación en Centros de Trabajo)",
+            "startDate": "2017-03-01",
+            "finishDate": "2017-06-01",
+            "challenges": [
+              {
+                "description": "En esta empresa realicé el módulo de Formación en Centros de Trabajo del ciclo formativo que cursé.\n\nAprendí el funcionamiento de la plataforma e-Ágora de Telefónica (SGIPE, Nilo, Scapex, Planex…), la realización de documentación de diversa índole y me encargaba del mantenimiento de los equipos informáticos.\n\nY como colofón, formé parte de la organización de la XI Feria Tecnológica AOTEC, realizando tareas propias de la secretaría técnica."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Illustrator",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "ArcGIS",
+                "type": "technology"
+              },
+              {
+                "name": "Autocad",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Replicación de infraestructura bare metal en un sistema virtual",
+          "description": "Durante mi formación de la formación profesional, en la asignatura de infraestructuras de redes de datos y sistemas de telefonía, me propusieron realizar un proyecto que consistía en la replicación de la infraestructura del instituto, pero solo usando virtualización.\n\nPara ello usando la distribución Proxmox VE en su versión 4.1, se virtualizaron varios servidores que harán gestiones diferentes: DHCP, DNS, PXE y un repositorio local de Debian (stable, testing, unstable y experimental), todos montado bajo Debian 8.3. La idea principal del proyecto era que, en un momento dado, se aísle un aula entera de la red principal de instituto y trabajen desde su propia red privada, con dominio virtual propio, filtro MAC de todos los equipos de la red, y asignación DHCP basada en directivas, con la posibilidad de instalar mediante el protocolo PXE una distribución Debian en los ordenadores y mantenerlos actualizados desde el repositorio local. A la vez se ha añadido una máquina virtual, usando la distribución pfSense, para hacer de firewall y filtrado de contenidos.",
+          "URL": "https://iescierva.net/",
+          "image": {
+            "alt": "ca225be5-532d-4210-a8fb-724d30f09303_1578424477215.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/15/9e1c9819-f00d-420b-a832-522f4d0d5068_ca225be5-532d-4210-a.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-11-01",
+            "finishDate": "2016-03-01",
+            "competences": [
+              {
+                "name": "DNS",
+                "type": "technology"
+              },
+              {
+                "name": "Debian",
+                "type": "technology"
+              },
+              {
+                "name": "Pfsense",
+                "type": "technology"
+              },
+              {
+                "name": "Proxmox",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VMWare",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Aprende SCRUM",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "LinkedIn Learning / PMI",
+          "description": "Descubre SCRUM, la metodología ágil de gestión de proyectos que marca una tendencia en la industria. Desde pequeños startups hasta grandes corporaciones, esta nueva forma de trabajar está revolucionando la forma en que trabajamos en equipo. En este curso aprenderás las bases de la filosofia SCRUM, sus roles, herramientas e implementación. Conocerás los fundamentos principales para comenzar a organizar tus proyectos reduciendo el trabajo innecesario y aumentando sustancialmente la motivación y productividad de tus compañeros de equipo. Aprende qué es y cómo incorporar SCRUM a tus proyectos.",
+          "URL": "https://www.linkedin.com/learning/certificates/9037b311c7af5683359fe0b55bfff08759653723bb7940e086bbb23a8273746e",
+          "image": {
+            "alt": "Bug-Large-Use_RGB_Blue_96px_Learning_RGB.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/12/6fd0d196-b563-423b-a5c7-4b2123425c23_bug-large-use_rgb_bl.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Fundamentos de la gestión de proyectos",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "LinkedIn Learning / PMI",
+          "description": "La gestión de proyectos es un acercamiento a la buena organización de procesos de principio a fin. En sí misma es una profesión, pero también es un conjunto de técnicas que cualquier persona puede aplicar para alcanzar sus objetivos y gestionar proyectos de trabajo con mayor eficacia. La gestión de proyectos puede utilizarse para guiar proyectos pequeños y sencillos, así como iniciativas complejas a nivel de empresa. En este curso, Bonnie Biafore te explicará los fundamentos de la gestión de proyectos, desde la definición del problema, el establecimiento de metas y objetivos del proyecto y la construcción de un plan de proyecto para la gestión de los recursos del equipo, hasta el cumplimiento de plazos y el cierre del proyecto. En el camino te ofrecerá consejos sobre cómo informar sobre el desempeño del proyecto manteniéndolo en marcha y la aprobación final del cliente.",
+          "URL": "https://www.linkedin.com/learning/certificates/4bcef00286b292378046ebfb5f5c3fb7ee583791755a9ec91c3b05f8e5f178fb",
+          "image": {
+            "alt": "Bug-Large-Use_RGB_Blue_96px_Learning_RGB.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/12/5ff99e54-60bd-4a13-b73c-59afbb249863_bug-large-use_rgb_bl.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Fundamentos de la gestión de proyectos ágil",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "LinkedIn Learning / PMI",
+          "description": "La gestión de proyectos ágil te permite crear productos más pequeños de forma rápida y eficiente. Es una opción excelente para los equipos que trabajan en desarrollo de productos, programación, análisis de negocios y otras áreas colaborativas. Sin embargo, este es un proceso delicado para el que se requieren unas metas, una gestión y un alcance específicos. En este curso, el formador y profesional de gestión de proyectos Bob McGannon te muestra las herramientas y técnicas que necesitas para gestionar un proyecto en su ciclo de vida ágil. Aprende a aplicar este tipo de gestión con los proyectos apropiados. Veremos las cuatro fases principales del ciclo, desde el alcance del trabajo y el diseño de tu estructura sprint hasta la recopilación de requisitos, la gestión del proyecto sin interferir en el proceso de creación, la adaptación para el feedback y el cierre del proyecto. En el capítulo extra, Bob McGannon te enseñará algunos problemas con los que se encontró al ejecutar proyectos ágiles. Así, tendrás una perspectiva real del ciclo de vida de tu proyecto.",
+          "URL": "https://www.linkedin.com/learning/certificates/fd26bc1f545e008262650d74819bb965ac87aa4e34bcd9860369eda1c5f31425",
+          "image": {
+            "alt": "6fd0d196-b563-423b-a5c7-4b2123425c23_bug-large-use_rgb_bl.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/17/e40c4350-5057-4e03-881c-163dc5d6cf10_6fd0d196-b563-423b-a.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Fundamentos de la gestión del tiempo",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "LinkedIn Learning / PMI",
+          "description": "Aprende en este curso a organizarte mejor para disponer de más tiempo de calidad en el que desarrollar tus objetivos y expectativas. Descubre trucos, herramientas, métodos y acciones específicas dirigidas a la mejora de tu eficacia y tu bienestar general, con los que serás capar de tomar mejores decisiones. Mantén más control sobre las tareas a las que dedicas tu tiempo, trabaja tu disciplina, perseverancia y responsabilidad individual, y sustituye el modo reactivo de actuar por el modo reflexivo.",
+          "URL": "https://www.linkedin.com/learning/certificates/4bed9c1bcfb4295c1894b0f68ca072b39cbf0f1fee7b309d5e41d72630109219",
+          "image": {
+            "alt": "Bug-Large-Use_RGB_Blue_96px_Learning_RGB.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/12/ae377ef1-b510-4d75-ae1f-0393c2284e35_bug-large-use_rgb_bl.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "PY101x: Python: Aprender a programar",
+        "startDate": "2020-09-01",
+        "finishDate": "2020-09-01",
+        "institution": {
+          "name": "edX",
+          "URL": "https://courses.edx.org/certificates/25c30997396b4f62b044b069181bb9db",
+          "image": {
+            "alt": "edx-logo-registered-elm.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/12/e1e67083-5b17-4467-9aff-82ea8953cf61_edx-logo-registered-.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "MTA: Networking Fundamentals",
+        "startDate": "2016-06-01",
+        "finishDate": "2016-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://www.microsoft.com/es-es",
+          "image": {
+            "alt": "microsoftR.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/12/77c8b5bd-2ae9-4596-8446-4011156aa0c1_microsoftr.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Windows",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Técnico en Instalaciones de Telecomunicaciones",
+        "startDate": "2015-09-01",
+        "finishDate": "2017-06-01",
+        "institution": {
+          "name": "IES Ingeniero De la Cierva",
+          "URL": "https://iescierva.net/",
+          "image": {
+            "alt": "1578424477215.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/ca225be5-532d-4210-a8fb-724d30f09303_1578424477215.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Proxmox",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/cesartagarro/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Centos",
+          "type": "technology"
+        },
+        {
+          "name": "Debian",
+          "type": "technology"
+        },
+        {
+          "name": "Proxmox",
+          "type": "technology"
+        },
+        {
+          "name": "RedHat",
+          "type": "technology"
+        },
+        {
+          "name": "Ubuntu",
+          "type": "technology"
+        },
+        {
+          "name": "VMWare",
+          "type": "technology"
+        },
+        {
+          "name": "Windows",
+          "type": "technology"
+        },
+        {
+          "name": "Zabbix",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
