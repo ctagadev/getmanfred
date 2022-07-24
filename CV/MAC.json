@@ -41,9 +41,18 @@
             "name": "Administrador de sistemas y redes",
             "startDate": "2022-04-01",
             "finishDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "Durante mi estancia en Gor Factory, mis funciones principales fueron las de mantener y actualizar los sistemas de virtualización de la compañía basados en VMware y Citrix, así como la actualización y mantenimiento de los servidores alojados en la infraestructura, tanto a nivel lógico como físico.\n\nTambién apoyaba a mis compañeros de soporte interno con tal de facilitar su trabajo al máximo."
+              }
+            ],
             "competences": [
               {
                 "name": "Active Directory",
+                "type": "technology"
+              },
+              {
+                "name": "Citrix",
                 "type": "technology"
               },
               {
