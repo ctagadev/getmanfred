@@ -478,14 +478,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Centos",
-          "type": "technology"
-        },
-        {
-          "name": "Debian",
-          "type": "technology"
-        },
-        {
           "name": "Docker",
           "type": "technology"
         },
@@ -494,15 +486,11 @@
           "type": "technology"
         },
         {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
           "name": "Microsoft Office 365",
-          "type": "technology"
-        },
-        {
-          "name": "RedHat",
-          "type": "technology"
-        },
-        {
-          "name": "Ubuntu",
           "type": "technology"
         },
         {
