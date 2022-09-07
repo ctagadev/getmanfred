@@ -15,13 +15,19 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/4e86c09a-97dd-41fa-88af-00bcc1f15eb8_img_20180607_131849_.jpg"
       },
       "location": {
-        "notes": "Murcia, Spain"
+        "notes": "Murcia"
       }
     },
     "relevantLinks": [
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/cesartagarro/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Trekkie",
+        "fact": "Hace años que soy fan del mundo de Star Trek, he visto todas sus películas y casi todas las series, pero si me tengo que quedar con una, me quedo con la tripulación del Capitán Picard."
       }
     ]
   },
@@ -48,10 +54,6 @@
             ],
             "competences": [
               {
-                "name": "Active Directory",
-                "type": "technology"
-              },
-              {
                 "name": "Citrix",
                 "type": "technology"
               },
@@ -60,7 +62,11 @@
                 "type": "technology"
               },
               {
-                "name": "Office 365",
+                "name": "Microsoft Active Directory",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Office 365",
                 "type": "technology"
               },
               {
@@ -96,10 +102,6 @@
             ],
             "competences": [
               {
-                "name": "Active Directory",
-                "type": "technology"
-              },
-              {
                 "name": "Jira",
                 "type": "technology"
               },
@@ -109,6 +111,10 @@
               },
               {
                 "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Active Directory",
                 "type": "technology"
               },
               {
@@ -309,7 +315,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Windows",
+          "name": "VMWare",
           "type": "technology"
         }
       },
@@ -321,7 +327,7 @@
       },
       {
         "skill": {
-          "name": "VMWare",
+          "name": "Windows",
           "type": "technology"
         }
       }
