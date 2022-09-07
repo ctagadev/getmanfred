@@ -486,7 +486,15 @@
           "type": "technology"
         },
         {
-          "name": "Proxmox",
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Microsoft Office 365",
           "type": "technology"
         },
         {
