@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/4e86c09a-97dd-41fa-88af-00bcc1f15eb8_img_20180607_131849_.jpg"
       },
       "location": {
-        "notes": "Murcia"
+        "country": "España",
+        "region": "Región de Murcia",
+        "municipality": "Murcia"
       }
     },
     "relevantLinks": [
@@ -455,11 +457,19 @@
         },
         "linkedCompetences": [
           {
+            "name": "Arduino",
+            "type": "technology"
+          },
+          {
             "name": "Linux",
             "type": "technology"
           },
           {
             "name": "Proxmox",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
             "type": "technology"
           }
         ]
