@@ -460,17 +460,16 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "Fundamentos de la gestión del tiempo",
         "startDate": "2022-06-01",
-        "finishDate": "2022-06-01",
         "institution": {
           "name": "LinkedIn Learning / PMI",
           "description": "Aprende en este curso a organizarte mejor para disponer de más tiempo de calidad en el que desarrollar tus objetivos y expectativas. Descubre trucos, herramientas, métodos y acciones específicas dirigidas a la mejora de tu eficacia y tu bienestar general, con los que serás capar de tomar mejores decisiones. Mantén más control sobre las tareas a las que dedicas tu tiempo, trabaja tu disciplina, perseverancia y responsabilidad individual, y sustituye el modo reactivo de actuar por el modo reflexivo.",
           "URL": "https://www.linkedin.com/learning/certificates/4bed9c1bcfb4295c1894b0f68ca072b39cbf0f1fee7b309d5e41d72630109219",
           "image": {
-            "alt": "Bug-Large-Use_RGB_Blue_96px_Learning_RGB.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/12/ae377ef1-b510-4d75-ae1f-0393c2284e35_bug-large-use_rgb_bl.png"
+            "alt": "6fd0d196-b563-423b-a5c7-4b2123425c23_bug-large-use_rgb_bl.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/25/fe40f4e7-840c-48d3-bb56-cf87821e9c33_6fd0d196-b563-423b-a.png"
           }
         }
       },
