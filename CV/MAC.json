@@ -336,6 +336,20 @@
     ],
     "studies": [
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Web",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "Instituto Superior de Formación Profesional San Antonio de Murcia",
+          "URL": "https://fp.ucam.edu/",
+          "image": {
+            "alt": "UCAM-FP.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/25/2a74f3c4-f994-4071-b2a4-16063e487c57_ucam-fp.jpg"
+          }
+        }
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Aprende SCRUM",
