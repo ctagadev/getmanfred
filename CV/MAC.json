@@ -350,6 +350,51 @@
         }
       },
       {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "De 0 a Dev",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "OpenBootcamp",
+          "description": "Hoja de ruta de OpenBootcamp, enfocada en el aprendizaje de 0 a desarrollador.",
+          "URL": "https://open-bootcamp.com/",
+          "image": {
+            "alt": "1631600310329.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/25/a280d0a8-e98e-4859-b510-127eacb08cea_1631600310329.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Spring",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Aprende SCRUM",
