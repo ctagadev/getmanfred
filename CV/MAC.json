@@ -311,7 +311,11 @@
       {
         "details": {
           "name": " Matrícula de Honor",
-          "description": "Expedida por IES Ingeniero de la Cierva"
+          "description": "Expedida por IES Ingeniero de la Cierva",
+          "image": {
+            "alt": "ca225be5-532d-4210-a8fb-724d30f09303_1578424477215.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/28/4ab35a33-c877-4f55-b349-8c6e0775d064_ca225be5-532d-4210-a.jpg"
+          }
         },
         "type": "achievement",
         "publishingDate": "2017-06-01"
