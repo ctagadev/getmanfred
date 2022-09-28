@@ -306,6 +306,16 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": " Matrícula de Honor",
+          "description": "Expedida por IES Ingeniero de la Cierva"
+        },
+        "type": "achievement",
+        "publishingDate": "2017-06-01"
+      }
     ]
   },
   "knowledge": {
