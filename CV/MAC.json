@@ -332,6 +332,12 @@
           "name": "Windows",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -562,6 +568,10 @@
       "preferredCompetences": [
         {
           "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
           "type": "technology"
         },
         {
