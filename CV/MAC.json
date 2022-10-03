@@ -358,7 +358,7 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": false,
-        "name": "Técnico Superior en Desarrollo de Aplicaciones Web",
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Web (a distancia)",
         "startDate": "2022-09-01",
         "institution": {
           "name": "Instituto Superior de FP San Antonio de Murcia",
@@ -612,6 +612,11 @@
           "name": "Zabbix",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "DevOps & Infrastructure & SRE",
+        "Project Manager & Delivery Manager",
+        "SysAdmin"
       ]
     }
   }
