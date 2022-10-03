@@ -602,11 +602,19 @@
           "type": "technology"
         },
         {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
           "name": "Kubernetes",
           "type": "technology"
         },
         {
           "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
           "type": "technology"
         },
         {
