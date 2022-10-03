@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "César Luis",
       "surnames": "Tagarro Muñoz",
-      "title": "SysAdmin",
+      "title": "SysAdmin aprendiendo a ser DevOps",
       "description": "Siempre me ha gustado ser de esas personas dinámicas y proactivas, que son capaces de reinventarse y adaptarse a las circunstancias.\n\nLa mayor parte de mi trayectoria profesional se ha desarrollado en el mundo del diseño de redes FTTH, y disfrutaba cuando surgía una dificultad o tenía que buscar una solución ingeniosa para optimizar el diseño de una forma rápida sin que llegase a repercutir en el trabajo de otros compañeros.\n\nPero, si hay algo que me define, es el interés por conocer el funcionamiento de cada aparato que cae en mis manos, tanto a nivel interno (hardware) como a nivel de uso (software) para optimizar su funcionamiento y conseguir sacar el máximo rendimiento. De manera que, en este momento, estoy centrado en desarrollar mi carrera profesional como administrador de sistemas.\n\nAdemás, uno de mis principales intereses es estar al día de las novedades que hay en el mundo de la informática y telecomunicaciones, sobre todo en la rama de seguridad de la información y redes a nivel empresarial. Esta inquietud por aprender ha hecho que gran parte de mis conocimientos se hayan adquirido de forma autodidacta.\n\nPero antes de entrar en este mundo, fui comercial, lo que me enseñó a trabajar contrarreloj y, sobre todo, a tratar con todo tipo de personas y situaciones.\n\nEn la vida profesional creo que lo más importante es demostrar lo que eres capaz de hacer y aportar a tu empresa. La honestidad, el esfuerzo, las ganas de aprender y mejorar son mi mejor carta de presentación.",
       "avatar": {
         "alt": "IMG_20180607_131849_2.jpg",
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Región de Murcia",
-        "municipality": "Murcia"
+        "municipality": "Murcia",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
