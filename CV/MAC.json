@@ -23,6 +23,10 @@
     },
     "relevantLinks": [
       {
+        "type": "github",
+        "URL": "https://github.com/CtagaDev"
+      },
+      {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/cesartagarro/"
       }
