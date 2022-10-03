@@ -582,6 +582,18 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Ansible",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
           "name": "Docker",
           "type": "technology"
         },
@@ -598,19 +610,11 @@
           "type": "technology"
         },
         {
-          "name": "Microsoft Office 365",
+          "name": "Terraform",
           "type": "technology"
         },
         {
           "name": "VMWare",
-          "type": "technology"
-        },
-        {
-          "name": "Windows",
-          "type": "technology"
-        },
-        {
-          "name": "Zabbix",
           "type": "technology"
         }
       ],
