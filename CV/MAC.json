@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Región de Murcia",
-        "municipality": "Murcia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Murcia"
       }
     },
     "relevantLinks": [
@@ -356,6 +355,26 @@
       }
     ],
     "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Formación para la certificación LPIC-1: Linux Administrator",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Antonio Sánchez Corbalán",
+          "URL": "https://sanchezcorbalan.es/",
+          "image": {
+            "alt": "ASC-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/03/433b2d91-60ad-42a0-8994-2ae405e365c3_asc-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          }
+        ]
+      },
       {
         "studyType": "officialDegree",
         "degreeAchieved": false,
