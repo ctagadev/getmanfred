@@ -549,6 +549,22 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Aprende SCRUM",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "LinkedIn Learning / PMI",
+          "description": "Descubre SCRUM, la metodología ágil de gestión de proyectos que marca una tendencia en la industria. Desde pequeños startups hasta grandes corporaciones, esta nueva forma de trabajar está revolucionando la forma en que trabajamos en equipo. En este curso aprenderás las bases de la filosofía SCRUM, sus roles, herramientas e implementación. Conocerás los fundamentos principales para comenzar a organizar tus proyectos reduciendo el trabajo innecesario y aumentando sustancialmente la motivación y productividad de tus compañeros de equipo. Aprende qué es y cómo incorporar SCRUM a tus proyectos.",
+          "URL": "https://www.linkedin.com/learning/certificates/9037b311c7af5683359fe0b55bfff08759653723bb7940e086bbb23a8273746e",
+          "image": {
+            "alt": "linkedin-learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/be7b8b88-09fa-4180-bb11-d04d4ba46ab8_linkedin-learning.png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "https://courses.edx.org/certificates/25c30997396b4f62b044b069181bb9db",
         "startDate": "2020-08-01",
         "finishDate": "2020-09-01",
