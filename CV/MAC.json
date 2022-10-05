@@ -509,21 +509,6 @@
         }
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
-        "name": "Fundamentos de la gestión de proyectos ágil",
-        "startDate": "2022-06-01",
-        "institution": {
-          "name": "LinkedIn Learning / PMI",
-          "description": "La gestión de proyectos ágil te permite crear productos más pequeños de forma rápida y eficiente. Es una opción excelente para los equipos que trabajan en desarrollo de productos, programación, análisis de negocios y otras áreas colaborativas. Sin embargo, este es un proceso delicado para el que se requieren unas metas, una gestión y un alcance específicos. En este curso, el formador y profesional de gestión de proyectos Bob McGannon te muestra las herramientas y técnicas que necesitas para gestionar un proyecto en su ciclo de vida ágil. Aprende a aplicar este tipo de gestión con los proyectos apropiados. Veremos las cuatro fases principales del ciclo, desde el alcance del trabajo y el diseño de tu estructura sprint hasta la recopilación de requisitos, la gestión del proyecto sin interferir en el proceso de creación, la adaptación para el feedback y el cierre del proyecto. En el capítulo extra, Bob McGannon te enseñará algunos problemas con los que se encontró al ejecutar proyectos ágiles. Así, tendrás una perspectiva real del ciclo de vida de tu proyecto.",
-          "URL": "https://www.linkedin.com/learning/certificates/fd26bc1f545e008262650d74819bb965ac87aa4e34bcd9860369eda1c5f31425",
-          "image": {
-            "alt": "linkedin-learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/d0736f03-b74b-4ed4-a026-17d1d1722c0f_linkedin-learning.png"
-          }
-        }
-      },
-      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "MTA: Networking Fundamentals",
@@ -556,6 +541,22 @@
           "image": {
             "alt": "linkedin-learning.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/f40bd3b5-484e-4ad8-b1a4-c9e04e0cdfe7_linkedin-learning.png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Fundamentos de la gestión de proyectos ágil",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "LinkedIn Learning / PMI",
+          "description": "La gestión de proyectos ágil te permite crear productos más pequeños de forma rápida y eficiente. Es una opción excelente para los equipos que trabajan en desarrollo de productos, programación, análisis de negocios y otras áreas colaborativas. Sin embargo, este es un proceso delicado para el que se requieren unas metas, una gestión y un alcance específicos. En este curso, el formador y profesional de gestión de proyectos Bob McGannon te muestra las herramientas y técnicas que necesitas para gestionar un proyecto en su ciclo de vida ágil. Aprende a aplicar este tipo de gestión con los proyectos apropiados. Veremos las cuatro fases principales del ciclo, desde el alcance del trabajo y el diseño de tu estructura sprint hasta la recopilación de requisitos, la gestión del proyecto sin interferir en el proceso de creación, la adaptación para el feedback y el cierre del proyecto. En el capítulo extra, Bob McGannon te enseñará algunos problemas con los que se encontró al ejecutar proyectos ágiles. Así, tendrás una perspectiva real del ciclo de vida de tu proyecto.",
+          "URL": "https://www.linkedin.com/learning/certificates/fd26bc1f545e008262650d74819bb965ac87aa4e34bcd9860369eda1c5f31425",
+          "image": {
+            "alt": "linkedin-learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/d0736f03-b74b-4ed4-a026-17d1d1722c0f_linkedin-learning.png"
           }
         }
       },
