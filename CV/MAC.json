@@ -546,6 +546,22 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Fundamentos de la gestión del tiempo",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "LinkedIn Learning / PMI",
+          "description": "Aprende en este curso a organizarte mejor para disponer de más tiempo de calidad en el que desarrollar tus objetivos y expectativas. Descubre trucos, herramientas, métodos y acciones específicas dirigidas a la mejora de tu eficacia y tu bienestar general, con los que serás capar de tomar mejores decisiones. Mantén más control sobre las tareas a las que dedicas tu tiempo, trabaja tu disciplina, perseverancia y responsabilidad individual, y sustituye el modo reactivo de actuar por el modo reflexivo.",
+          "URL": "https://www.linkedin.com/learning/certificates/4bed9c1bcfb4295c1894b0f68ca072b39cbf0f1fee7b309d5e41d72630109219",
+          "image": {
+            "alt": "linkedin-learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/f40bd3b5-484e-4ad8-b1a4-c9e04e0cdfe7_linkedin-learning.png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "https://courses.edx.org/certificates/25c30997396b4f62b044b069181bb9db",
         "startDate": "2020-08-01",
         "finishDate": "2020-09-01",
