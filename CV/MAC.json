@@ -548,6 +548,22 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Fundamentos de la gestión de proyectos",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "LinkedIn Learning / PMI",
+          "description": "La gestión de proyectos es un acercamiento a la buena organización de procesos de principio a fin. En sí misma es una profesión, pero también es un conjunto de técnicas que cualquier persona puede aplicar para alcanzar sus objetivos y gestionar proyectos de trabajo con mayor eficacia. La gestión de proyectos puede utilizarse para guiar proyectos pequeños y sencillos, así como iniciativas complejas a nivel de empresa. En este curso, Bonnie Biafore te explicará los fundamentos de la gestión de proyectos, desde la definición del problema, el establecimiento de metas y objetivos del proyecto y la construcción de un plan de proyecto para la gestión de los recursos del equipo, hasta el cumplimiento de plazos y el cierre del proyecto. En el camino te ofrecerá consejos sobre cómo informar sobre el desempeño del proyecto manteniéndolo en marcha y la aprobación final del cliente.",
+          "URL": "https://www.linkedin.com/learning/certificates/4bcef00286b292378046ebfb5f5c3fb7ee583791755a9ec91c3b05f8e5f178fb",
+          "image": {
+            "alt": "linkedin-learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/41eae2dd-b6a6-4511-9357-7585a2b781c7_linkedin-learning.png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "https://courses.edx.org/certificates/25c30997396b4f62b044b069181bb9db",
         "startDate": "2020-08-01",
         "finishDate": "2020-09-01",
