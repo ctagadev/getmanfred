@@ -550,6 +550,22 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Los cinco pasos del proceso creativo",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "LinkedIn Learning",
+          "description": "El proceso creativo no solo consiste en generar ideas. En realidad, este es un proceso de cinco etapas, y la ideación es solo una de ellas. Las cinco fases son la identificación del objetivo, la recopilación de información, el diseño del problema, la ideación y la selección.",
+          "URL": "https://www.linkedin.com/learning/certificates/a12790c61edba0c27e05f88b3b7a7a96f68b8d8fa3dcf0d51ba72acf7565390a",
+          "image": {
+            "alt": "linkedin-learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/98b3e246-4122-4340-9cbf-eb0c92981d5c_linkedin-learning.png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "https://courses.edx.org/certificates/25c30997396b4f62b044b069181bb9db",
         "startDate": "2020-08-01",
         "finishDate": "2020-09-01",
