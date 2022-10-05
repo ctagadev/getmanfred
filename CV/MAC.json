@@ -544,27 +544,6 @@
         ]
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "PY101x: Python: Aprender a programar",
-        "startDate": "2020-08-01",
-        "finishDate": "2020-09-01",
-        "institution": {
-          "name": "edX",
-          "URL": "https://courses.edx.org/certificates/25c30997396b4f62b044b069181bb9db",
-          "image": {
-            "alt": "edx-logo-registered-elm.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/12/e1e67083-5b17-4467-9aff-82ea8953cf61_edx-logo-registered-.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "https://courses.edx.org/certificates/25c30997396b4f62b044b069181bb9db",
