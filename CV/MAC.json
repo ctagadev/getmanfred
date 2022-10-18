@@ -438,10 +438,11 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
-        "name": "Maneja DOCKER. Mejora como SysAdmin Linux o DevOps",
+        "name": "Maneja DOCKER",
         "startDate": "2022-10-01",
         "institution": {
           "name": "Antonio Sánchez Corbalán",
+          "URL": "https://academia.sanchezcorbalan.es/course/introduccion-docker",
           "image": {
             "alt": "asc-logo.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/18/8d4d9c96-e091-4ea8-8fdd-856ca483d62e_asc-logo.png"
