@@ -60,7 +60,15 @@
             ],
             "competences": [
               {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
                 "name": "Citrix",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
                 "type": "technology"
               },
               {
