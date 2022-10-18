@@ -454,7 +454,15 @@
             "type": "technology"
           },
           {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
             "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "VirtualBox",
             "type": "technology"
           }
         ]
