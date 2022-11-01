@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Región de Murcia",
-        "municipality": "Murcia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Murcia"
       }
     },
     "relevantLinks": [
@@ -353,8 +352,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
-        "level": "Limited working proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -454,30 +452,6 @@
         ]
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
-        "name": "Maneja Docker",
-        "startDate": "2022-10-01",
-        "institution": {
-          "name": "Antonio Sánchez Corbalán",
-          "URL": "https://academia.sanchezcorbalan.es/course/introduccion-docker",
-          "image": {
-            "alt": "asc-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/18/8d4d9c96-e091-4ea8-8fdd-856ca483d62e_asc-logo.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Docker",
-            "type": "technology"
-          },
-          {
-            "name": "Kubernetes",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Técnico Superior en Desarrollo de Aplicaciones Web (a distancia)",
@@ -525,6 +499,31 @@
         "linkedCompetences": [
           {
             "name": "Windows",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Maneja Docker",
+        "startDate": "2022-10-01",
+        "finishDate": "2022-11-01",
+        "institution": {
+          "name": "Antonio Sánchez Corbalán",
+          "URL": "https://academia.sanchezcorbalan.es/course/introduccion-docker",
+          "image": {
+            "alt": "asc-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/18/8d4d9c96-e091-4ea8-8fdd-856ca483d62e_asc-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
             "type": "technology"
           }
         ]
@@ -731,7 +730,6 @@
         "DevOps & Infrastructure & SRE",
         "SysAdmin"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
