@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Región de Murcia",
-        "municipality": "Murcia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Murcia"
       }
     },
     "relevantLinks": [
@@ -159,6 +158,28 @@
               {
                 "name": "Zabbix",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "JM Ingenia Telecomunicaciones",
+          "image": {
+            "alt": "logo-fondo-blanco-2-300x85.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/02/e5dc26c3-ecef-4697-9ec5-e3bee3181f51_logo-fondo-blanco-2-.png"
+          },
+          "URL": "https://jmingenia.com/"
+        },
+        "roles": [
+          {
+            "name": "Técnico de diseño HFC/FTTH",
+            "startDate": "2021-06-01",
+            "finishDate": "2021-07-01",
+            "challenges": [
+              {
+                "description": "Mis funciones principales eran las de la modernización de la red HFC a FTTH del operador R en Galicia."
               }
             ]
           }
@@ -353,12 +374,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -737,7 +756,6 @@
         "Scrum Master & Agile Coach",
         "SysAdmin"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
