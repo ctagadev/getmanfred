@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Región de Murcia",
-        "municipality": "Murcia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Murcia"
       }
     },
     "relevantLinks": [
@@ -44,22 +43,6 @@
   },
   "experience": {
     "jobs": [
-      {
-        "organization": {
-          "name": "Tecon Soluciones Informáticas",
-          "image": {
-            "alt": "tecon.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/31/37b95e17-7e44-4f46-9a95-29dd73b7301c_tecon.jpg"
-          },
-          "URL": "https://www.tecon.es/"
-        },
-        "roles": [
-          {
-            "name": "Administrador de sistemas",
-            "startDate": "2022-10-01"
-          }
-        ]
-      },
       {
         "organization": {
           "name": "Gor Factory",
@@ -379,12 +362,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -763,7 +744,6 @@
         "Scrum Master & Agile Coach",
         "SysAdmin"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
