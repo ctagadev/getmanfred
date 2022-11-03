@@ -465,21 +465,6 @@
         ]
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
-        "name": "Transición de responsable a líder",
-        "startDate": "2022-10-01",
-        "institution": {
-          "name": "LinkedIn Learning / PMI",
-          "description": "Al igual que la gestión, la dirección o el liderazgo es una habilidad que se puede enseñar. En este curso, la asesora de ejecutivos Sara Canaday te explica algunas estrategias de eficacia probada para que cambies tu mentalidad de responsable a líder.",
-          "URL": "https://www.linkedin.com/learning/certificates/e95fe633ec26d834a3c67475aa7a96432be9e00ccad0ecabf4a250240c93db45",
-          "image": {
-            "alt": "linkedin-learning.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/03/774db985-3b92-47e3-af9b-9fb816a4fa3c_linkedin-learning.png"
-          }
-        }
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Técnico Superior en Desarrollo de Aplicaciones Web (a distancia)",
@@ -555,6 +540,22 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Transición de responsable a líder",
+        "startDate": "2022-10-01",
+        "finishDate": "2022-11-01",
+        "institution": {
+          "name": "LinkedIn Learning / PMI",
+          "description": "Al igual que la gestión, la dirección o el liderazgo es una habilidad que se puede enseñar. En este curso, la asesora de ejecutivos Sara Canaday te explica algunas estrategias de eficacia probada para que cambies tu mentalidad de responsable a líder.",
+          "URL": "https://www.linkedin.com/learning/certificates/e95fe633ec26d834a3c67475aa7a96432be9e00ccad0ecabf4a250240c93db45",
+          "image": {
+            "alt": "linkedin-learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/03/774db985-3b92-47e3-af9b-9fb816a4fa3c_linkedin-learning.png"
+          }
+        }
       },
       {
         "studyType": "unaccredited",
