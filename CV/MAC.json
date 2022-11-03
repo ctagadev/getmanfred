@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Región de Murcia",
-        "municipality": "Murcia"
+        "municipality": "Murcia",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -34,6 +35,10 @@
       {
         "topic": "Trekkie",
         "fact": "Desde niño soy fan de Star Trek. He visto todas sus películas y casi todas las series, pero si me tengo que quedar con una de las épocas, me quedo con la tripulación del Capitán Picard, ya que fue quien me introdujo en este maravilloso universo."
+      },
+      {
+        "topic": "Organizador MurciaLanParty",
+        "fact": "Durante 9 años formé parte de la organización de la MurciaLanParty en la que tuve distintas funciones: organización de torneos, apoyo al departamento técnico, además de gestionar el montaje y desmontaje de las infraestructuras necesarias para su realización.\n\nTambién fui miembro del equipo encargado de la construcción de un coche solar para participar en la carrera Murcia Solar Race."
       },
       {
         "topic": "La fotografía",
@@ -362,10 +367,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -761,6 +768,7 @@
         "Scrum Master & Agile Coach",
         "SysAdmin"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
