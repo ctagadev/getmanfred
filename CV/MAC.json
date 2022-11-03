@@ -374,31 +374,25 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "VMWare",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Github",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Windows",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
+          "name": "VMWare",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
           "type": "technology"
         }
       }
