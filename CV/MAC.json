@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Región de Murcia",
-        "municipality": "Murcia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Murcia"
       }
     },
     "relevantLinks": [
@@ -367,12 +366,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -408,6 +405,21 @@
       }
     ],
     "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Teletrabajo y gestión de equipos remotos",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "LinkedIn Learning / PMI",
+          "description": "Aprende a gestionar equipos profesionales formados por personas que trabajan a distancia, o que están físicamente separados en diferentes oficinas. En este curso descubrirás métodos para mejorar la cohesión, generar confianza y buenas relaciones, establecer expectativas y acuerdos de colaboración mutua, comunicarse de manera efectiva, superar posibles conflictos, sacar el trabajo adelante y hacer que el equipo crezca y se desarrolle de manera excelente. Echa además un vistazo a los cinco retos principales de todo manager en remoto así como alguna de las soluciones más útiles para corregir el rumbo y devolver la excelencia a la gestión del equipo.",
+          "URL": "https://www.linkedin.com/learning/certificates/4ec90e2fb3e6939e61a067858740f260b4cfc0fe18bb69186d7c62ce95541702",
+          "image": {
+            "alt": "linkedin-learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/07/6c438f33-90bf-4c3b-ac19-475b885d3d15_linkedin-learning.png"
+          }
+        }
+      },
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
@@ -774,7 +786,6 @@
         "Scrum Master & Agile Coach",
         "SysAdmin"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
