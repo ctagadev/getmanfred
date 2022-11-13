@@ -43,6 +43,21 @@
         "topic": "La fotografía",
         "fact": "Me encanta mirar el mundo a través del objetivo de mi cámara. Creo que es una manera maravillosa de apreciar detalles que tal vez, de otra manera, pasarían desapercibidos."
       }
+    ],
+    "recommendations": [
+      {
+        "title": "while True: learn()",
+        "type": "other",
+        "URL": "https://luden.io/wtl/",
+        "authors": [
+          {
+            "name": "Luden.",
+            "surnames": "io",
+            "title": "Author"
+          }
+        ],
+        "summary": "Se trata de un juego de simulación y puzles que trata algo todavía más enigmático: el aprendizaje automático, las redes neuronales, los macrodatos y la IA, con el fin de conseguir entender a tu gato."
+      }
     ]
   },
   "experience": {
