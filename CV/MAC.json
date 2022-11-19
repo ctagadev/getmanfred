@@ -553,6 +553,10 @@
           {
             "name": "VirtualBox",
             "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
           }
         ]
       },
