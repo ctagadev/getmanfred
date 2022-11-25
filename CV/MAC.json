@@ -211,12 +211,12 @@
         },
         "roles": [
           {
-            "name": "Ingeniería de redes FTTH",
+            "name": "Ingeniería de redes FTTH y QA",
             "startDate": "2019-07-01",
             "finishDate": "2021-05-01",
             "challenges": [
               {
-                "description": "Las funciones que realizaba eran de diseñador de redes FTTH, principalmente de Red de Alimentación, cálculo de fibras y materiales, parcheo de cabeceras, seguimiento de diseño de Red de Distribución, zonificación, etc. Teniendo los conocimientos de ayudar en cualquier fase del proceso en caso de necesidad.\n\nA su vez, también realizaba labores de gestión del control de calidad, gestión de huecos, revisión y verificación de documentación, apoyo a otros departamentos, etc."
+                "description": "En mi experiencia profesional como diseñador de redes FTTH yo era el encargado de **liderar un equipo** que incluía tanto a personal interno de la empresa como a diferentes contratas externas. Mi misión era **gestionar los diferentes proyectos**, repartir las tareas, hacer **seguimiento** de los avances y problemas que nos pudieran surgir, motivar a mi equipo, ser el enlace entre nuestra empresa y la compañía para la que realizábamos los diseños y la construcción de su red (cuando no construíamos nuestra propia red) y realizando **QA** de las diferentes fases del proyecto para el cumplimiento de la normativa vigente."
               }
             ],
             "competences": [
