@@ -440,7 +440,7 @@
         "name": "Preparación para el examen AZ-900: Azure Fundamentals",
         "startDate": "2022-11-01",
         "institution": {
-          "name": "Microsoft",
+          "name": "Microsoft Learn",
           "description": "La certificación valida los conocimientos básicos sobre los servicios en la nube y cómo se proporcionan con Azure. Los candidatos deben poder demostrar un conocimiento fundamental de los conceptos de la nube, así como de los servicios, cargas de trabajo, seguridad, privacidad, precios y soporte técnico de Azure.",
           "URL": "https://learn.microsoft.com/es-es/certifications/azure-fundamentals/",
           "image": {
