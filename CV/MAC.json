@@ -429,6 +429,22 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: Azure Fundamentals",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/es-es/certifications/azure-fundamentals/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": false,
         "name": "Formación para la certificación LPIC-1: Linux Administrator",
