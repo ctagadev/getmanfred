@@ -435,7 +435,11 @@
         "startDate": "2022-12-01",
         "institution": {
           "name": "Microsoft",
-          "URL": "https://learn.microsoft.com/es-es/certifications/azure-fundamentals/"
+          "URL": "https://learn.microsoft.com/es-es/certifications/azure-fundamentals/",
+          "image": {
+            "alt": "microsoft-logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/07/0c8f9925-24d0-48d6-9c5a-38cdbb5cf6ff_microsoft-logo.jpg"
+          }
         },
         "linkedCompetences": [
           {
